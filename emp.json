@@ -1,0 +1,39 @@
+{
+    "Name": [
+        {
+            "email": "john@testemail.com",
+            "mobile": "+91xxxxxxxx",
+            "groups": [
+                "project1", "project2", "project3", "project5", "project6", "project7", "project8"
+            ]
+        },
+        {
+            "email": "sre-team@testemail.com",
+            "mobile": "+91xxxxxxxx",
+            "groups": [
+                "project1", "project2", "project3", "project5", "project6", "project7", "project8"
+            ]
+        },
+        {
+            "email": "cto@testemail.com",
+            "mobile": "+91xxxxxxxx",
+            "groups": [
+                "project2", "project5", "project6", "project7", "project8"
+            ]
+        },
+        {
+            "email": "enterprise-support@testemail.com",
+            "mobile": "",
+            "groups": [
+                "project2", "project3", "project4"
+            ]
+        },
+        {
+            "email": "support@testemail.com",
+            "mobile": "",
+            "groups": [
+                "project2", "project5", "project6", "project7", "project8"
+            ]
+        }
+    ]
+}
